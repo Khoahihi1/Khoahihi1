@@ -82,11 +82,9 @@ KhoaHihi @ Reverse Engineering
 
 ---
 
-### `activity`
+### `repos`
 
-<!--START_SECTION:activity-->
-_No recent public activity in the last sync — push to a public repo and this block updates if you add the workflow below._
-<!--END_SECTION:activity-->
+Pinned work: chủ yếu trên [**OnlyDEVS-Antigravity**](https://github.com/Khoahihi1/OnlyDEVS-Antigravity) và [**BrMod**](https://github.com/Khoahihi1/BrMod) — cứ pin repo bạn muốn showcase trên GitHub Settings → Profile.
 
 ---
 
