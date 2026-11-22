@@ -55,21 +55,6 @@ IDA MCP / WinDbg MCP / x64dbg MCP / dnSpy MCP
 
 ---
 
-### `stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Khoahihi1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff5&icon_color=7B68EE&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khoahihi1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff5&text_color=c9d1d9&langs_count=6" alt="Top languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khoahihi1&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff5&fire=7B68EE&currStreakLabel=00fff5" alt="Streak" />
-
-</div>
-
----
-
 <div align="center">
 
 ```asm
