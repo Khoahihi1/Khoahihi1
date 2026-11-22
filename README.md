@@ -8,10 +8,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a2e,100:16213e&height=120&section=header&text=KhoaHihi&fontSize=42&fontColor=00fff5&animation=twinkling" alt="Header" />
 
-<br />
-
-<img src="./assets/onlydevs-logo.png" width="140" alt="OnlyDevs" />
-
 </div>
 
 ---
@@ -29,14 +25,24 @@ Binary analysis & native internals — đào sâu code, không đoán mò.
 
 ### `onlydevs`
 
-<p align="center">
+<div align="center">
+
+<table>
+<tr>
+<td align="right" valign="middle">
   <a href="https://onlydevs.online/">
-    <img src="https://img.shields.io/badge/onlydevs.online-FF4D4D?style=for-the-badge" alt="Website" />
+    <img src="./assets/onlydevs-logo.png" width="64" alt="OnlyDevs" />
   </a>
-  <a href="https://discord.gg/kEdMcjnftp">
-    <img src="https://img.shields.io/badge/Discord-kEdMcjnftp-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+</td>
+<td align="left" valign="middle">
+  <b>Founder</b><br />
+  <a href="https://onlydevs.online/">onlydevs.online</a><br />
+  <a href="https://discord.gg/kEdMcjnftp">discord.gg/kEdMcjnftp</a>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
