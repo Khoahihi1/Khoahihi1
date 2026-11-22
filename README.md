@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=620&lines=KhoaHihi+%E2%80%94+Reverse+Engineer;Binary+analysis+%E2%80%A2+Native+internals+%E2%80%A2+Low-level+debugging" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=640&lines=KhoaHihi+%E2%80%94+Reverse+Engineer;Founder+%40+OnlyDevs.online;Binary+analysis+%E2%80%A2+Native+internals" alt="Typing intro" />
 
 <br />
 
@@ -16,12 +16,45 @@
 
 ```text
 KhoaHihi @ Reverse Engineering
+├── Founder   : OnlyDevs.online — community for devs who dig deeper
 ├── Focus     : native code, game / mobile protections, protocol & binary logic
 ├── Mindset   : read assembly like prose, prove claims with evidence
 └── Stack     : Windows / Android / IL2CPP / ARM & x86_64
 ```
 
 **Reverse engineer** — tôi đào sâu vào binary, hook runtime, và gỡ lớp bảo vệ để hiểu *thực sự* hệ thống đang làm gì, không chỉ đoán từ surface API.
+
+---
+
+### `onlydevs` — founder
+
+<table>
+<tr>
+<td width="120" align="center">
+  <img src="./assets/onlydevs-logo.png" width="96" alt="OnlyDevs logo" />
+  <br />
+  <img src="./assets/avatar.jpg" width="72" style="border-radius:50%" alt="KhoaHihi" />
+</td>
+<td>
+
+**Founder** của [**OnlyDevs**](https://onlydevs.online/) — nơi dev thích reverse, low-level, và build thứ *thật sự chạy được* gặp nhau (không phải OnlyFans, chỉ **Devs**).
+
+- 🌐 Website: **[onlydevs.online](https://onlydevs.online/)**
+- 💬 Discord: **[discord.gg/kEdMcjnftp](https://discord.gg/kEdMcjnftp)**
+- 📦 Source (private): [**OnlyDEVS-Antigravity**](https://github.com/Khoahihi1/OnlyDEVS-Antigravity)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://onlydevs.online/">
+    <img src="https://img.shields.io/badge/OnlyDevs-online-FF4D4D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="OnlyDevs website" />
+  </a>
+  <a href="https://discord.gg/kEdMcjnftp">
+    <img src="https://img.shields.io/badge/Discord-join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" />
+  </a>
+</p>
 
 ---
 
@@ -91,6 +124,12 @@ Pinned work: chủ yếu trên [**OnlyDEVS-Antigravity**](https://github.com/Kho
 ### `connect`
 
 <p align="center">
+  <a href="https://onlydevs.online/">
+    <img src="https://img.shields.io/badge/Website-onlydevs.online-00fff5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/kEdMcjnftp">
+    <img src="https://img.shields.io/badge/Server-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
   <a href="https://github.com/Khoahihi1">
     <img src="https://img.shields.io/badge/GitHub-Khoahihi1-181717?style=for-the-badge&logo=github" />
   </a>
