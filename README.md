@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=640&lines=KhoaHihi+%E2%80%94+Reverse+Engineer;Founder+%40+OnlyDevs.online;Binary+%E2%80%A2+Native+internals" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=680&lines=KhoaHihi+%E2%80%94+Reverse+Engineer;Founder+%40+OnlyDevs.online;IDA+MCP+%C2%B7+WinDbg+MCP+%C2%B7+x64dbg+MCP+%C2%B7+dnSpy+MCP" alt="Typing intro" />
 
 <br />
 
@@ -16,10 +16,8 @@
 
 ```text
 Reverse Engineer · Founder OnlyDevs
-IDA / Ghidra / WinDbg / IL2CPP · Windows & Android
+IDA MCP / WinDbg MCP / x64dbg MCP / dnSpy MCP
 ```
-
-Binary analysis & native internals — đào sâu code, không đoán mò.
 
 ---
 
@@ -49,13 +47,10 @@ Binary analysis & native internals — đào sâu code, không đoán mò.
 ### `stack`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IDA_Pro-8.x-7B68EE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ghidra-11+-CC5500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/x64dbg-Debug-2EA043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WinDbg-Next-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frida-hook-EF4444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IL2CPP-Unity-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zygisk-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA-MCP-7B68EE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WinDbg-MCP-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/x64dbg-MCP-2EA043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dnSpy-MCP-512BD4?style=for-the-badge" />
 </p>
 
 ---
