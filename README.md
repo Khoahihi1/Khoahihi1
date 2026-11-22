@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=680&lines=KhoaHihi+%E2%80%94+Reverse+Engineer;Founder+%40+OnlyDevs.online;IDA+MCP+%C2%B7+WinDbg+MCP+%C2%B7+x64dbg+MCP+%C2%B7+dnSpy+MCP" alt="Typing intro" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0d1117&height=170&section=header&text=KhoaHihi&fontSize=54&fontColor=e6edf3&stroke=00fff5&strokeWidth=1&animation=fadeIn&fontAlignY=40&desc=Reverse+Engineer+%C2%B7+Founder+OnlyDevs&descSize=17&descAlignY=58&descAlign=60&descColor=00d9ff" alt="Header" />
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a2e,100:16213e&height=120&section=header&text=KhoaHihi&fontSize=42&fontColor=00fff5&animation=twinkling" alt="Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=7B68EE&center=true&vCenter=true&width=540&lines=IDA+MCP+%C2%B7+WinDbg+MCP+%C2%B7+x64dbg+MCP+%C2%B7+dnSpy+MCP" alt="Stack typing" />
 
 </div>
 
@@ -62,8 +62,8 @@ mov rcx, offset binary
 call reverse_engineer
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f23&height=80&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=16213eaa&height=50&section=footer&text=&fontSize=1" width="100%" alt="" />
 
-<img src="https://komarev.com/ghpvc/?username=Khoahihi1&style=flat-square&color=0d1117" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Khoahihi1&style=flat-square&color=7B68EE&labelColor=0d1117" alt="Profile views" />
 
 </div>
